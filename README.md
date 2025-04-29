@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @bibi2400
 - 👀 I’m interested in technology, maths and art
-- 🌱 I’m currently learning c++ at university
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning TS, 
 - 📫 How to reach me: you won't have to reach me, I'm invisible
 
 <!---
